@@ -1,0 +1,244 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 12 Pro",
+            "desc": "Apple iPhone 12th generation",
+            "price": 999,
+            "color": "#3305a",
+            "image": "https://adminapi.applegadgetsbd.com/storage/media/large/1533-48820.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Pixel 5",
+            "desc": "Google Pixel phone 15th generation",
+            "price": 699,
+            "color": "#00ac51",
+            "image": "https://regen.pk/cdn/shop/products/iphone-12-pro-max-345421.jpg?v=1686646131"
+        },
+        {
+            "id": 3,
+            "name": "M1 Macbook air",
+            "desc": "Apple iPhone 12th generation",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image": "https://coretech.pk/wp-content/uploads/2021/05/12-PRO-MAX-600x600.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Playstation 5",
+            "desc": "Sony Playstation 5th generation",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-product-thumbnail-01-en-14sep21?$facebook$"
+        },
+        {
+            "id": 5,
+            "name": "Airpods",
+            "desc": "Apple Aipods pro 1st generation",
+            "price": 200,
+            "color": "#e3e4e9",
+            "image": "https://mobilecover.pk/wp-content/uploads/2022/02/Iphone-12-pro-max-gold-boader-white.jpeg"
+        },
+        {
+            "id": 6,
+            "name": "iPad Pro",
+            "desc": "Apple iPad Pro 2020 edition",
+            "price": 799,
+            "color": "#f73984",
+            "image": "https://apple-store.pk/wp-content/uploads/2022/11/apple-iphone-12-pro-max-pakistan-priceoye-aam6w-500x500-1.png"
+        },
+        {
+            "id": 7,
+            "name": "Galaxy S21 Ultra",
+            "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image": "https://gadgetsbro.pk/wp-content/uploads/2022/03/1648072677457.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Galaxy S21",
+            "desc": "Samsung Galaxy S21 2021 edition",
+            "price": 899,
+            "color": "#7c95eb",
+            "image": "https://regen.pk/cdn/shop/products/iphone-12-pro-321394_ee217b80-7d48-48ea-bae8-710b41bca458.jpg?v=1674907301&width=1946"
+        },
+        {
+            "id": 9,
+            "name": "Dell XPS 13",
+            "desc": "A sleek and powerful ultrabook with a virtually",
+            "price": 1049,
+            "color": "#1c1c1c",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5nV9iZBdHYeli1yFm66Y6MLV5EhNTiiEQZT27ePr5SBxSEkbmMjKlgQ5iM0JGOdD938k&usqp=CAU"
+        },
+        {
+            "id": 10,
+            "name": "HP Spectre x360",
+            "desc": "A versatile 2-in-1 laptop with a stunning design",
+            "price": 1492,
+            "color": "#1c1c1c",
+            "image": "https://laptopmall.pk/storage/media/qJkrdM6zlRRk3LUrR0qW4EmGicUruCKHw68VZgrS.png"
+        },
+        {
+            "id": 11,
+            "name": "Lenovo ThinkPad X1 Carbon",
+            "desc": " An ultra-lightweight business laptop",
+            "price": 1294,
+            "color": "#1c1c1c",
+            "image": "https://www.lenovo.com/medias/lenovo-laptops-thinkbook-16-gen-4-intel-hero.png?context=bWFzdGVyfHJvb3R8MzQ1OTM2fGltYWdlL3BuZ3xoMjEvaGZkLzEzMjU1MTI1OTkxNDU0LnBuZ3xlMGJjMDAyZjIzYzczYmY0YTY3NTlmODcwMDJjZTBhMzg5M2VlMjFlNTNlZWJkZDMyNDA3MTdlNjc3NjhhZWY5"
+        },
+        {
+            "id": 12,
+            "name": "Apple MacBook Air",
+            "desc": "The iconic thin and light laptop with the M1 chip",
+            "price": 1529,
+            "color": "#1c1c1c",
+            "image": "https://lcdn.mediagalaxy.ro/media/catalog/product/i/d/ideapad_slim_3_gen_8_gri_1_ac433e1f.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Asus ROG Zephyrus G14",
+            "desc": " A gaming laptop with a powerful",
+            "price": 1136,
+            "color": "#1c1c1c",
+            "image": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA5L3Jhd3BpeGVsb2ZmaWNlOV93ZWJfZGVzaWduX21vY2t1cF93ZWJzaXRlX2Z1bGxfc2NyZWVuX2hpZ2hfcmVzb181NzljMGM3Ny04MDI1LTQ0MjktYmMxNS03YTU0ZjU0YjdjZjMucG5n.png"
+        },
+        {
+            "id": 14,
+            "name": "Acer Swift 3",
+            "desc": "A budget-friendly ultrabook with a sleek aluminum chassis",
+            "price": 1149,
+            "color": "#1c1c1c",
+            "image": "https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGYtczczLXRlZC0xMDIyMi5wbmc.png"
+        },
+        {
+            "id": 15,
+            "name": "LG Gram 17",
+            "desc": "An ultra-lightweight 17-inch laptop",
+            "price": 1119,
+            "color": "#1c1c1c",
+            "image": "https://d1b5h9psu9yexj.cloudfront.net/56925/Dell-XPS-15-9530_20230725-175259_full.jpeg"
+        },
+        {
+            "id": 16,
+            "name": "Lenovo Yoga C940",
+            "desc": "A 2-in-1 laptop with a soundbar hinge",
+            "price": 1259,
+            "color": "#1c1c1c",
+            "image": "https://www.lenovo.com/medias/lenovo-laptops-ideapad-slim-3i-gen-8-15-intel-hero.png?context=bWFzdGVyfHJvb3R8MjYxMTk1fGltYWdlL3BuZ3xoNmYvaGJjLzE2Mjg5MjUyNDA5Mzc0LnBuZ3xkMjM5Y2YwZmRkZDU2YzQ1YTg1MDMyZjg2YjBmYTY1NGM5NjUzNzI5MWNmNTI0NjI4NjU2YmI2YzkzYWRhYzZl"
+        },
+        {
+            "id": 17,
+            "name": "HP Envy 13",
+            "desc": "A stylish and powerful ultrabook with a premium metal design",
+            "price": 1399,
+            "color": "#1c1c1c",
+            "image": "https://eezepc.com/wp-content/uploads/2022/11/lenovo-EEZEPC.png"
+        },
+        {
+            "id": 18,
+            "name": "MacBook Pro 16-inch",
+            "desc": "A professional-grade laptop",
+            "price": 800,
+            "color": "#1c1c1c",
+            "image": "https://static3.webx.pk/files/4012/Images/61xo6awmvel.-ac-sl1500--4012-1309712-220922094416201.jpg"
+        },
+        {
+            "id": 19,
+            "name": "Samsung Galaxy Book S",
+            "desc": "An ultra-thin laptop with a focus on portability",
+            "price": 799,
+            "color": "#1c1c1c",
+            "image": "https://www.lenovo.com/medias/lenovo-laptop-ideapad-5g-hero.png?context=bWFzdGVyfHJvb3R8Mjg1OTkxfGltYWdlL3BuZ3xoNGUvaGU5LzE0NDA4OTkwNDkwNjU0LnBuZ3xiMGE4YzRiNzUzOTdhMmIxNWRlNzkxNWU2YzRjNjAwNTA2NjJkNTA5YWI0MTBkZmQzMmUxNDA3ZmI3OTBmMWMy"
+        },
+        {
+            "id": 20,
+            "name": "LG Gram 16",
+            "desc": "An ultra-lightweight 16-inch laptop with an emphasis on portability",
+            "price": 1099,
+            "color": "#1c1c1c",
+            "image": "https://p4-ofp.static.pub/fes/cms/2022/03/30/9czxngypgi91xfmo69l82zsoskkqg6727171.png"
+        },
+        {
+            "id": 21,
+            "name": "Acer Swift 7",
+            "desc": "An incredibly thin and lightweight laptop with a focus on portability",
+            "price": 1199,
+            "color": "#1c1c1c",
+            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/Lenovo/ThinkPad_E16_G1_21JUS08X00/IMG_0312.JPG"
+        },
+        {
+            "id": 22,
+            "name": "Apple iPad Pro",
+            "desc": "Powerful iOS tablet with a stunning Retina",
+            "price": 1649,
+            "color": "#1c1c1c",
+            "image": "https://www.android.com/static/2016/img/devices/tablets/transparent/galaxy-tab-s2_1x.png"
+        },
+        {
+            "id": 23,
+            "name": "Samsung Galaxy Tab S7",
+            "desc": "Android tablet featuring a Super AMOLED",
+            "price": 1369,
+            "color": "#1c1c1c",
+            "image": "https://hyperstore.com.pk/wp-content/uploads/2020/09/ipad-7-32gb-gold.jpg"
+        },
+        {
+            "id": 24,
+            "name": "Amazon Fire HD 10",
+            "desc": "Affordable Amazon tablet",
+            "price": 1235,
+            "color": "#1c1c1c",
+            "image": "https://cdn.homeshopping.pk/product_images/x/235/71M5vmw3nlL._AC_SX425___23960_zoom.jpg"
+        },
+        {
+            "id": 25,
+            "name": "Microsoft Surface Go 2",
+            "desc": "Compact 2-in-1 Windows tablet",
+            "price": 700,
+            "color": "#1c1c1c",
+            "image": "https://shahenterprise.pk/wp-content/uploads/2021/07/Apple-10.2-Inch-iPad-Latest-Model-8th-Generation-with-Wi-Fi-32GB-Silver.jpg"
+        },
+        {
+            "id": 26,
+            "name": "Lenovo Tab M10",
+            "desc": "Budget-friendly Android tablet",
+            "price": 720,
+            "color": "#1c1c1c",
+            "image": "https://cdn.gsmarena.com/pics/13/10/apple-ipad-retina-mini-delayed/gsmarena_001.jpg"
+        },
+        {
+            "id": 27,
+            "name": "Google Pixel Slate",
+            "desc": "Google's Chrome OS tablet",
+            "price": 655,
+            "color": "#1c1c1c",
+            "image": "https://cdn.thewirecutter.com/wp-content/media/2022/04/ipadbesttablet-2048px-9438.jpg"
+        },
+        {
+            "id": 28,
+            "name": "Sony Xperia Tablet Z4",
+            "desc": "Sleek Android tablet",
+            "price": 699,
+            "color": "#1c1c1c",
+            "image": "https://gamextreme.ph/cdn/shop/products/ipad-air-3-gray_1024x1024.jpg?v=1623640871"
+        },
+        {
+            "id": 29,
+            "name": "Dell Venue 8 7000",
+            "desc": "hin and lightweight Android tablet",
+            "price": 888,
+            "color": "#1c1c1c",
+            "image": "https://media.cnn.com/api/v1/images/stellar/prod/apple-ipad-air.jpg?c=1x1&q=h_1280,w_1280,c_fill"
+        },
+        {
+            "id": 30,
+            "name": "LG G Pad 5",
+            "desc": "Android tablet with a large battery capacity",
+            "price": 666,
+            "color": "#1c1c1c",
+            "image": "https://www.interdiscount.ch/static-shops/products/720/678acc805ac0ee3549e8b37b16f3af5188d6.jpg"
+        }
+    ]
+}
